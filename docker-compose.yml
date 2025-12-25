@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: agri-arch-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    environment:
+      - ENV=development
+    networks:
+      - agri-net
+
+  # Simulated Database (PostgreSQL)
+  db:
+    image: postgres:13
+    container_name: agri-db
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: agri_db
+    ports:
+      - "5432:5432"
+    networks:
+      - agri-net
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+networks:
+  agri-net:
+    driver: bridge
+
+volumes:
+  postgres_data:
