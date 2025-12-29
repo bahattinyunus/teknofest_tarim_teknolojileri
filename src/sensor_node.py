@@ -4,6 +4,9 @@ IoT Module - LoRaWAN Sensor Integration
 This module handles communication with agricultural sensors using LoRaWAN protocol.
 """
 
+
+import random
+
 class SensorNode:
     """Base class for sensor nodes in the field"""
     
@@ -17,20 +20,26 @@ class SensorNode:
         
     def transmit(self):
         """Transmit data via LoRaWAN"""
-        raise NotImplementedError
+        print(f"Node {self.node_id} transmitting data...")
+        return True
 
 
 class NPKSensor(SensorNode):
     """NPK (Nitrogen, Phosphorus, Potassium) Soil Sensor"""
     
     def read_data(self):
-        # TODO: Implement NPK reading logic
-        return {"N": 0, "P": 0, "K": 0}
+        """Simulate NPK reading"""
+        return {
+            "N": random.randint(20, 100),  # mg/kg
+            "P": random.randint(10, 50),
+            "K": random.randint(100, 300)
+        }
 
 
 class MoistureSensor(SensorNode):
     """Soil Moisture Sensor"""
     
     def read_data(self):
-        # TODO: Implement moisture reading logic
-        return {"moisture": 0.0}
+        """Simulate moisture reading"""
+        return {"moisture": round(random.uniform(10.0, 90.0), 2)}
+

@@ -6,6 +6,7 @@ from drone or camera imagery.
 """
 
 import numpy as np
+import random
 
 
 class PlantDiseaseDetector:
@@ -28,14 +29,23 @@ class PlantDiseaseDetector:
     
     def detect(self, image: np.ndarray) -> dict:
         """
-        Detect diseases in plant image
+        Detect diseases in plant image (Simulated)
         
         Returns:
             dict: Disease classification and confidence score
         """
-        # TODO: Implement detection logic
+        if image is None:
+             return {"error": "No image provided"}
+             
+        # Simulated inference
+        diseases = ["Healthy", "Apple Scab", "Black Rot", "Cedar Apple Rust"]
+        detected = random.choice(diseases)
+        confidence = round(random.uniform(0.70, 0.99), 2)
+        
         return {
-            "disease": "healthy",
-            "confidence": 0.95,
-            "recommendations": []
+            "disease": detected,
+            "confidence": confidence,
+            "recommendations": [
+                f"Apply treatment for {detected}" if detected != "Healthy" else "Monitor moisture levels"
+            ]
         }
