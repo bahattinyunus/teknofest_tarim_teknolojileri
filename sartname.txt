@@ -1,0 +1,805 @@
+ 
+ 
+I 
+ 
+ 
+TARIM 
+
+ 
+ 
+1 
+ 
+İÇİNDEKİLER 
+TABLOLAR .............................................................................................................................. 3 
+VERSİYONLAR ........................................................................................................................ 4 
+TANIMLAR ve KISALTMALAR DİZİNİ ........................................................................................ 5 
+1. YARIŞMANIN AMACI ........................................................................................................ 6 
+2. YARIŞMANIN KAPSAMI .................................................................................................... 6 
+2.1. ARZ GÜVENLİĞİ ....................................................................................................... 8 
+2.1.1. Alternatif Protein Üretimi .................................................................................. 8 
+2.1.2. Hayvancılıkta Buzağı/Kuzu kaybını Engelleyici Teknolojiler ................................. 8 
+2.1.3. Sperma Ayrıştırma Teknolojileri ......................................................................... 8 
+2.1.4. Bitki Besleme ve Koruma Sistemleri .................................................................. 8 
+2.2. SOSYOLOJİ .............................................................................................................. 9 
+2.2.1. Görüntü İşleme Sistemleri ( Hastalık/Zararlı Tespiti, Gelişim Takibi, Hasat/Verim 
+İzleme, Doğum Süreci Takibi) ............................................................................................ 9 
+2.2.2. Tarım ve Hayvansal Üretim Veri Analitiği ve Bilgi Sistemleri ................................. 9 
+2.2.3. AGV Sistemler ................................................................................................ 10 
+2.2.4. Akıllı Ahır Modelleri ......................................................................................... 10 
+2.2.5. Tam Otonom Sera Sistemleri ........................................................................... 10 
+2.3. İKLİM/ÇEVRE ......................................................................................................... 10 
+2.3.1. Bitkisel Kaynaklar ve Alglerden Gübre,  Biyoyakıt ve Biyolojik İyileştirme 
+Teknolojileri .................................................................................................................... 10 
+2.3.2. Tarımsal ve Organik Atıkların Geri Dönüşümü (Enerji ve Yem Üretimi) ................ 11 
+2.3.3. Toprak Altı Sulama Sistemleri .......................................................................... 11 
+2.3.4. Su Geri Kazanım Teknolojileri .......................................................................... 11 
+2.3.5. Kuraklığa ve Zararlılara Dirençli Tohum Teknolojileri ......................................... 11 
+2.3.6. Don Önleme Sistemleri................................................................................... 11 
+2.3.7. Orman Yangınları ............................................................................................ 11 
+2.4. FİYAT İSTİKRARI ...................................................................................................... 11 
+2.4.1. Alternatif Finansman Teknolojileri ................................................................... 12 
+2.5. SAĞLIK (GÜVENİLİR GIDA) ...................................................................................... 12 
+2.5.1. Organik Üretim Teknolojileri ............................................................................ 12 
+2.5.2. Bitkisel Kaynaklar ve Alglerden Omega-3, Gıda Takviyeleri ve Yem Üretim 
+Teknolojileri .................................................................................................................... 12 
+3. YARIŞMA KATILIM KOŞULLARI ....................................................................................... 12 
+3.1. Takım Oluşturma.................................................................................................... 13 
+3.2. Danışman Yükümlülükleri ....................................................................................... 14 
+ 
+ 
+2 
+ 
+3.3. Süreç Bilgileri ......................................................................................................... 15 
+3.4. Başvuru Esasları .................................................................................................... 16 
+4. YARIŞMA TAKVİMİ, ........................................................................................................ 16 
+5. PUANLAMA VE DEĞERLENDİRME ................................................................................. 16 
+5.1. Proje Ön Değerlendirme Raporu ............................................................................. 17 
+5.1.1. Proje Ön Değerlendirme Raporu İtiraz Süreci ................................................... 17 
+5.2. Proje Sunumu (Yarı Final) ........................................................................................ 17 
+5.2.1. Proje Sunumu İtiraz Süreci .............................................................................. 18 
+5.3. Yarışmanın Puanlanması ........................................................................................ 18 
+5.4. Prototip ve Final Sunum Puanlaması ....................................................................... 19 
+6. ÖDÜLLER ...................................................................................................................... 19 
+6.1. En İyi Sunum Ödülü ................................................................................................ 20 
+6.2. Ticarileştirme Potansiyeli Ödülü ............................................................................. 20 
+7. GENEL KURALLAR ......................................................................................................... 20 
+8. ETİK KURALLAR ............................................................................................................. 20 
+9. SORUMLULUK BEYANI .................................................................................................. 20 
+10. İLETİŞİM .................................................................................................................... 20 
+ 
+ 
+3 
+ 
+TABLOLAR 
+Tablo 1 Versiyonlar Tablosu ...................................................................................................... 4 
+Tablo 2 Yarışma Alt Kategorileri ................................................................................................ 7 
+Tablo 3 Yarışma Takvimi ......................................................................................................... 16 
+Tablo 4 Yarışma Puanlaması ................................................................................................... 18 
+Tablo 5 Kategori Bazlı Derece Ödül Tablosu............................................................................. 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+VERSİYONLAR 
+Tablo 1 Versiyonlar Tablosu 
+ 
+ 
+ 
+ 
+ 
+VERSİYON TARİH Açıklama 
+V1.0 2.01.2026 2026 İlk Versiyon 
+V1.1 22.01.2026 
+“Tarım ve Hayvansal Üretim Veri 
+Analitiği ve Bilgi Sistemleri” başlığı 
+eklendi.  
+V1.2 20.02.2026 Yarışma son başvuru tarihi 
+güncellenmesi. 
+ 
+ 
+5 
+ 
+TANIMLAR ve KISALTMALAR DİZİNİ  
+ 
+Etik Kurallar:  Yarışmacıların uyması gereken ahlaki ve profesyonel ilkeleri 
+tanımlamaktadır, 
+KYS: TEKNOFEST Kurumsal Yönetim Sistemi’ni,  
+Takım Kaptanı: Takımın organizasyonundan sorumlu olan ve süreçlerde liderlik görevini 
+üstlenen kişi, 
+Takım Danışmanı: Her takım için en fazla 1 öğretmen/eğitmen/akademisyen,  
+TEKNOFEST: Havacılık, Uzay ve Teknoloji Festivalini,  
+T3 Vakfı: Türkiye Teknoloji Takımı Vakfı’nı,  
+Takım Kaptanı: Yarışmalarda takımı temsil eden ve süreç boyunca iletişim 
+sorumluluğunu üstlenen takım üyesidir, 
+Yarışma Süreci: Yarışma başvurularının alınmaya başladığı tarih ile final sonuçlarının 
+açıklandığı tarih arasında geçen süreyi,  
+GNNS (Küresel Navigasyon Uydu Sistemi): Konum, hız ve zaman bilgisi sağlayan uydu 
+tabanlı navigasyon sistemidir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+1. YARIŞMANIN AMACI 
+Tarım Teknolojileri Yarışması, bireylerin sosyal sorumluluk bilincini, teknolojik bilgi ve 
+yetkinlikleriyle birleştirerek tarım sektörüne katkı sağlayacak yenilikçi ve yaratıcı çözümler 
+geliştirmelerini amaçlamaktadır. Sürdürülebilirlik odaklı bu yarışma, modern tarım 
+teknolojilerinin üretim süreçlerine doğru entegrasyonuyla; kaynakların verimli 
+kullanılmasını, ürün kalitesinin artırılmasını ve çevresel etkilerin azaltılmasını 
+hedeflemektedir. 
+Tarımda otomasyon, dijitalleşme ve yapay zekâ destekli karar mekanizmaları gibi yenilikçi 
+yaklaşımların teşvik edildiği bu yarışma, aynı zamanda iklim değişikliği, kuraklık ve diğer 
+çevresel faktörlerin tarımsal üretim üzerindeki olumsuz etkilerini en aza indirmeyi 
+amaçlamaktadır. Yerli ve milli teknolojilerin geliştirilmesini destekleyen yarışma, tarım 
+sektörünü daha erişilebilir, verimli ve sürdürülebilir bir geleceğe taşımayı hedeflerken, 
+bireysel inovasyonu toplumsal kalkınmanın merkezine koymaktadır. 
+Bu yarışma, geleceğin tarımını şekillendiren üretken zihinlerin katkısıyla, tarım 
+sektörünün küresel ölçekte dönüşümüne katkıda bulunmayı amaçlamaktadır. 
+2. YARIŞMANIN KAPSAMI  
+Tarım Teknolojileri Yarışması, yarışmacılardan tarım süreçlerini iyileştiren, teknoloji 
+entegrasyonuyla sürdürülebilir, yenilikçi ve çevre dostu çözümler sunan projeler 
+geliştirmelerini beklemektedir. 
+Yarışma bitkisel ve hayvansal üretimden su ürünlerine kadar geniş bir yelpazede, tarımsal 
+süreçleri daha verimli, çevre dostu ve sürdürülebilir hale getiren projeleri içermektedir. 
+Tarım Teknolojileri Yarışması kapsamında aşağıdaki başlıklar kapsamında projeler 
+değerlendirilecektir. Belirtilen başlıklar dışında sunulan projeler değerlendirmeye 
+alınmayacak ve durumları "elenenler" olarak güncellenecektir. 
+ 
+ 
+7 
+ 
+Tablo 2 Yarışma Alt Kategorileri 
+ 
+TARIM TEKNOLOJİLERİ YARIŞMASI
+ARZ GÜVENLİĞİ
+Alternatif Protein 
+Üretimi 
+Hayvancılıkta 
+Buzağı/Kuzu 
+Kaybını 
+Engelleyici 
+Teknolojiler
+Sperma Ayrıştırma 
+Teknolojileri
+Bitki Besleme ve 
+Koruma Sistemleri
+SOSYOLOJİ
+Görüntü İşleme 
+Sistemleri
+AGV Sistemler 
+Akıllı Ahır Modelleri
+Tam Otonom Sera 
+Sistemleri
+Tarım ve Hayvansal 
+Üretim Veri 
+Analitiği ve Bilgi 
+Sistemleri
+İKLİM/ÇEVRE
+Bitkisel Kaynaklar 
+ve Alglerden Gübre,  
+Biyoyakıt ve 
+Biyolojik İyileştirme 
+Teknolojileri
+Tarımsal ve Organik 
+Atıkların Geri 
+Dönüşümü
+Toprak Altı Sulama 
+Sistemleri
+Su Geri Kazanım 
+Teknolojileri
+Kuraklığa ve 
+Zararlılara Dirençli 
+Tohum Teknolojileri
+Don Önleme 
+Sistemleri
+Orman Yangınlarının 
+Etkisini Azaltma 
+Teknolojileri
+FİYAT İSTİKRARI
+Alternatif 
+Finansman 
+Teknolojileri 
+SAĞLIK (GÜVENİLİR 
+GIDA)
+Bitkisel 
+Kaynaklar ve 
+Alglerden 
+Omega-3, Gıda 
+Takviyeleri ve 
+Yem  Üretim 
+Teknolojileri
+Organik Üretim 
+Teknolojileri
+ 
+8 
+ 
+2.1. ARZ GÜVENLİĞİ 
+Bu tema, gıda ve tarımsal üretimin kesintisiz, yeterli ve sürdürülebilir şekilde devam 
+etmesini esas alır. Hayvansal üretimde yaşanan buzağı ve kuzu kayıpları, sürü 
+devamlılığını ve üretim kapasitesini olumsuz etkileyerek hayvansal üretim arzını uzun 
+vadede zayıflatmaktadır. 
+Nüfus artışı ve değişen tüketim eğilimleri karşısında, hayvansal üretimin tek başına gıda 
+arzını dengelemede yetersiz kalabilmesi, alternatif üretim modellerini zorunlu hale 
+getirmektedir. Bu kapsamda bitkisel, alg ve böcek bazlı alternatif protein üretim 
+teknolojileri, hayvansal üretimi tamamlayan ve arz güvenliğini güçlendiren çözümler 
+olarak öne çıkmaktadır. 
+Verim kayıplarını azaltan, üretimi güvence altına alan ve üretim kaynaklarını çeşitlendiren 
+bu teknolojiler, arz güvenliğinin sağlanmasında kritik rol oynamaktadır. 
+Arz güvenliği sağlanmadan gıda güvenliği, fiyat istikrarı ve üretim sürdürülebilirliği 
+mümkün değildir. 
+2.1.1. Alternatif Protein Üretimi 
+Amaç: Dünya'da protein ulaşımındaki zorlaşma, maliyetlerin yükselmesi karşısında, 
+üretiminin çevresel ve ekonomik baskılarını azaltacak, insan ve hayvan beslenmesine 
+yönelik yenilikçi, sürdürülebilir ve erişilebilir alternatif protein teknolojilerinin 
+geliştirilmesini teşvik etmek.  
+Kapsam: Bitkisel proteinler, alg ve mikroorganizma bazlı üretim, fermantasyon 
+teknolojileri, fonksiyonel protein ürünleri, gıda ve yem uygulamaları. 
+2.1.2. Hayvancılıkta Buzağı/Kuzu kaybını Engelleyici Teknolojiler 
+Amaç: Hayvansal üretimde yavru kayıplarını azaltarak  hayvan refahını ve üretim 
+sürekliliğini artırmak. 
+Kapsam:  Akıllı Barınak Sistemleri, Takviye Gıda, Aşı / İlaç, Akıllı Takip Sistemleri, Otonom 
+Modeller 
+2.1.3. Sperma Ayrıştırma Teknolojileri 
+Amaç: Hayvancılıkta genetik planlamayı destekleyen  yerli ve erişilebilir biyoteknolojik 
+çözümler geliştirmek. 
+Kapsam: Cinsiyet ayrıştırma, genetik verimlilik artırıcı yöntemler, cihaz ve süreç 
+geliştirme. 
+2.1.4. Bitki Besleme ve Koruma Sistemleri 
+Amaç: Bitki sağlığını korurken girdi kullanımını azaltan  akıllı besleme ve koruma 
+çözümleri geliştirmek. 
+Kapsam: Sensör tabanlı gübreleme, biyolojik mücadele, hedefli uygulama sistemleri. 
+ 
+ 
+9 
+ 
+2.2. SOSYOLOJİ 
+Tarım ve hayvancılık, yalnızca üretim süreçlerinden ibaret olmayıp; insan emeği, yaşam 
+biçimi ve kırsal toplumsal yapı ile doğrudan ilişkili alanlardır. Günümüzde tarımsal 
+faaliyetler, fiziksel iş yükü ve yaşam tarzına dair algılar nedeniyle genç nüfus ve nitelikli iş 
+gücü açısından sürdürülebilirlik riski ile karşı karşıyadır. 
+Bu tema; dijitalleşme, otomasyon, otonom sistemler, yapay zekâ ve karar destek 
+teknolojileri aracılığıyla tarım ve hayvancılığın daha planlı, veriye dayalı ve sosyal yaşamla 
+uyumlu bir meslek olarak yürütülmesini hedefler. 
+Akıllı tarım uygulamaları, otonom araçlar ve izleme sistemleri; insan müdahalesini 
+azaltarak üretim süreçlerini daha öngörülebilir ve yönetilebilir hale getirmektedir. 
+Teknoloji destekli üretim modelleri, iş gücü verimliliğini artırırken üreticinin yaşam 
+kalitesini yükseltmekte ve kırsal alanlarda sosyal sürdürülebilirliği güçlendiren temel 
+dönüşüm alanı olarak öne çıkmaktadır. 
+2.2.1. Görüntü İşleme Sistemleri ( Hastalık/Zararlı Tespiti, Gelişim Takibi, 
+Hasat/Verim İzleme, Doğum Süreci Takibi) 
+Amaç: Tarımda fiziksel iş gücünün etkin kullanımına yönelik erken teşhis, doğru 
+zamanlama ve veriye dayalı karar alma süreçlerini güçlendirecek görüntü işleme tabanlı 
+akıllı sistemler geliştirmek. 
+Kapsam:  
+• Bitkilerde hastalık ve zararlıların görüntü verileri üzerinden tespiti 
+• Bitkisel gelişim süreçlerinin görsel takibi 
+• Hasat ve verim süreçlerinin görüntü tabanlı izlenmesi 
+• Hayvancılık uygulamalarında davranış analizi, sağlık göstergeleri ve doğum süreci 
+gibi kritik olayların görüntü işleme teknikleriyle izlenmesi 
+Odak: Görsel veri, tespit, algılama, anlık izleme 
+2.2.2. Tarım ve Hayvansal Üretim Veri Analitiği ve Bilgi Sistemleri 
+Amaç: Tarım ve hayvansal üretim süreçlerinde farklı kaynaklardan elde edilen verilerin 
+analiz edilerek, üretim verimliliğini, sürdürülebilirliği ve karar alma kalitesini artırmaya 
+yönelik akıllı bilgi ve karar destek sistemleri geliştirmek. 
+Kapsam: 
+• Görüntü işleme sistemleri, sensörler, hava durumu, toprak, yem, sağlık ve üretim 
+verileri gibi çoklu veri kaynaklarının bütünleşik analizi 
+• Büyük veri analizi, yapay zekâ ve makine öğrenimi yöntemleriyle öngörü, tahmin 
+ve optimizasyon modellerinin geliştirilmesi 
+• Bitkisel ve hayvansal üretimde üreticilere yönelik öneri, planlama ve karar destek 
+mekanizmaları sunan bilgi sistemleri 
+ 
+ 
+10 
+ 
+Odak: Veri entegrasyonu, analiz, öngörü, karar destek 
+2.2.3. AGV Sistemler 
+Amaç: Tarımda fiziksel iş yükünü azaltan ve üretim süreçlerini optimize eden otonom kara 
+araçları ve robotik çözümler geliştirmek. 
+Kapsam: Bitkisel Üretim;  Tarla sürme, Yabani Otla Mücadele, Ekim, Zararlılar ile 
+Mücadele, Hasat ve vb.  
+Hayvansal Üretim; Yem Hazırlama, Yem Dağıtma, Gübre Yönetim ve vb.  
+2.2.4. Akıllı Ahır Modelleri 
+Amaç: Hayvan refahını, verimi ve işletme verimliliğini artıran dijital ve otomasyon destekli 
+ahır modelleri geliştirmek.  
+Kapsam: Sensörler, iklim kontrolü, hayvan davranış analizi, otomatik besleme ve izleme 
+sistemleri. 
+2.2.5. Tam Otonom Sera Sistemleri 
+Amaç: İnsan müdahalesini en aza indirerek, kontrollü ve sürekli üretim sağlayan  tam 
+otonom sera çözümleri geliştirmek. 
+Kapsam: İklim, sulama, besleme, hastalık kontrolü ve hasat otomasyonu. 
+2.3. İKLİM/ÇEVRE  
+İklim ve çevre, tarımsal üretimin sürekliliğini doğrudan etkileyen temel belirleyici unsurlar 
+arasında yer almaktadır. Kuraklık, su stresi, toprak bozulumu, aşırı hava olayları ve 
+çevresel kirlilik; üretim süreçlerini zorlaştırmakta ve tarımsal arz üzerind e ciddi riskler 
+oluşturmaktadır. Türkiye’de özellikle son yıllarda yaşanan don olayları, kısa sürede büyük 
+ürün kayıplarına yol açarak iklim kaynaklı risklerin etkisini açık biçimde ortaya koymuştur. 
+Bu tema; iklim değişikliğine uyum sağlayan, riskleri önceden tespit edebilen ve kayıpları 
+minimize eden üretim teknolojilerinin geliştirilmesini hedefler. Don önleme sistemleri, 
+erken uyarı mekanizmaları, su ve toprak yönetimi çözümleri ile çevresel iyileş tirme 
+teknolojileri bu kapsamda ele alınmaktadır. 
+İklim ve çevre odaklı teknolojik çözümler; tarımsal üretimin sürdürülebilirliğini 
+güçlendirirken, doğal kaynakların korunmasını ve uzun vadeli gıda arz güvenliğinin 
+sağlanmasını mümkün kılmaktadır. 
+2.3.1. Bitkisel Kaynaklar ve Alglerden Gübre,  Biyoyakıt ve Biyolojik 
+İyileştirme Teknolojileri 
+Amaç: Bazı Bitkisel Kaynakların ve Alglerin azot sabitleyici, sera gazı emisyonunu 
+azaltıltıcı ve biyolojik iyileştirme uygulamalarında kullanımının geliştirilmesini sağlamak. 
+ 
+ 
+11 
+ 
+Kapsam: Bitkisel kaynaklar ve alglerin atık sulardan kirletici maddeleri uzaklaştırma, 
+karbondioksit azaltma, oluşan biyokütleden biyoyakıt, biyo -jet yakıt, biyogübre vb. 
+çevresel ve biyolojik iyileştirme sistemler. 
+2.3.2. Tarımsal ve Organik Atıkların Geri Dönüşümü (Enerji ve Yem Üretimi) 
+Amaç: Tarımsal ve organik atıkları çevresel yük olmaktan çıkararak enerji, yem ve katma 
+değerli ürünlere dönüştüren teknolojilerin geliştirilmesini sağlamak. 
+Kapsam: Biyogaz, kompost, yem hammaddesi üretimi, atık ayrıştırma, geri dönüşüm ve 
+döngüsel tarım uygulamaları. 
+2.3.3. Toprak Altı Sulama Sistemleri 
+Amaç: Su kaynaklarını daha verimli kullanan, bitki kök bölgesine doğrudan müdahale 
+edebilen yeni nesil sulama teknolojilerinin geliştirilmesi. 
+Kapsam: Toprak altı sulama altyapıları, sensörler, otomasyon, veri temelli su yönetimi. 
+2.3.4. Su Geri Kazanım Teknolojileri 
+Amaç: Tarımsal faaliyetlerde kullanılan suyun yeniden kazanımını sağlayan  yenilikçi 
+sistemler geliştirmek. 
+Kapsam: Gri su, yağmur suyu hasadı, arıtma ve yeniden kullanım teknolojileri. 
+2.3.5. Kuraklığa ve Zararlılara Dirençli Tohum Teknolojileri 
+Amaç: İklim değişikliğine dayanıklı, yerli ve yüksek verimli  tohum 
+teknolojilerinin geliştirilmesini desteklemek. 
+Kapsam: Islah, biyoteknoloji, stres toleransı artırıcı yöntemler. 
+2.3.6. Don Önleme Sistemleri 
+Amaç: Don olaylarının neden olduğu ürün kayıplarını azaltan  erken uyarı ve aktif 
+mücadele sistemleri geliştirmek. 
+Kapsam: Sensörler, tahmin modelleri, aktif/pasif don önleme teknolojileri. 
+2.3.7. Orman Yangınları 
+Amaç: Orman yangınlarını erken tespit eden ve etkisini azaltan  yenilikçi teknolojik 
+çözümler geliştirmek. 
+Kapsam: İHA’lar, sensörler, yapay zekâ, erken uyarı ve müdahale sistemleri. 
+2.4. FİYAT İSTİKRARI 
+Fiyat istikrarı, tarımsal üretimin sürdürülebilirliği ve gıdaya erişimin sürekliliği açısından 
+kritik öneme sahiptir. Üretim maliyetleri ve finansmana erişimde yaşanan sorunlar, 
+tarımsal ürün fiyatlarında dalgalanmalara yol açmaktadır. 
+ 
+ 
+12 
+ 
+Bu tema; yenilikçi finansman modelleri ve dijital çözümler ile üretimin planlanabilir hale 
+gelmesini ve maliyet baskısının azaltılmasını hedefler. 
+Fiyat istikrarı sağlanmadan üretici korunamaz, tüketici ise dengeli fiyatlarla gıdaya 
+erişemez. 
+2.4.1. Alternatif Finansman Teknolojileri 
+Amaç: Tarım ve tarım teknolojileri girişimlerine erişilebilir ve yenilikçi  finansman 
+modelleri sunmak. 
+Kapsam: Dijital platformlar, mikro finans, üretici–yatırımcı eşleştirme sistemleri. 
+2.5. SAĞLIK (GÜVENİLİR GIDA) 
+Sağlık ve güvenilir gıda, tarımsal üretimin yalnızca miktarını değil, kalitesini ve 
+güvenilirliğini de ön plana çıkarır. Tüketiciler için gıdanın kaynağı, üretim yöntemi ve içeriği 
+giderek daha önemli hale gelmektedir. 
+Bu tema; izlenebilir, sağlıklı ve güvenilir gıda üretimini destekleyen teknolojilerin 
+geliştirilmesini hedefler. Organik üretim, doğal girdiler, biyolojik mücadele yöntemleri ve 
+fonksiyonel gıdalar bu kapsamda ele alınmaktadır. 
+Güvenilir gıda üretimi; toplum sağlığının korunması, tüketici güveninin artırılması ve 
+sürdürülebilir tarım sistemlerinin oluşturulması açısından temel bir unsurdur. 
+2.5.1. Organik Üretim Teknolojileri 
+Amaç: Organik tarımı daha erişilebilir, izlenebilir ve ekonomik hale getiren yenilikçi üretim 
+teknolojilerini teşvik etmek. 
+Kapsam: Yeni nesil sağlıklı gıda. Doğal girdiler, biyolojik mücadele, izleme ve sertifikasyon 
+destekli sistemler. 
+2.5.2. Bitkisel Kaynaklar ve Alglerden Omega -3, Gıda Takviyeleri ve Yem 
+Üretim Teknolojileri 
+Amaç: Balık yağına olan bağımlılığı azaltarak; algler ve bitkisel kaynaklar üzerinden 
+sürdürülebilir, izlenebilir ve yerli Omega -3 yağ asidi üretim teknolojileri geliştirilmesini 
+teşvik etmek. 
+Kapsam: Mikroalg ve bitkisel hammaddelerin (keten, chia vb.) yetiştirilmesi ve işlenmesi, 
+biyoreaktör ve üretim sistemleri, hasat –ekstraksiyon–saflaştırma süreçleri, Omega-3’ün 
+gıda, yem ve fonksiyonel ürünlerde kullanımı ile bu süreçlerin dijital ve biyot eknolojik 
+iyileştirilmesi. 
+3. YARIŞMA KATILIM KOŞULLARI 
+• Yarışmaya, Türkiye ve yurt dışında öğrenim gören tüm  lise (Açık Öğretim dahil) ve 
+üniversite öğrencileri (Lisans, Ön lisans, Yüksek Lisans, Doktora ve Açık Öğretim 
+dahil), mezunlar, girişim ve özel sektör katılabilir. 
+ 
+ 
+13 
+ 
+• Yarışmacı TEKNOFEST 202 6’ya katılacağı projesi ile geçmiş yıllarda düzenlenen 
+TEKNOFEST yarışmalarına katılım sağladı ise projesini/fikrini geliştirme ve/veya 
+dönüştürme şartı ile tekrar başvuru yapabilmektedir. 
+• Yarışmacı daha önce katıldığı proje raporunun/fikrinin birebir aynısı ve/veya kopya 
+raporu/fikri ile katılamaz. Benzer ya da taklit olduğu tespit edilen projeler yarışma dışı 
+kalacaktır. 
+• Geçmiş yıl TEKNOFEST proje raporları kapsamında www.teknofest.org adresinden 
+yayınlanmış olan raporlar geçmiş yıllarda katılım sağlamış olduğu proje raporları 
+üzerinden alıntı yapılması halinde kaynak belirtilmelidir. Kaynak belirtme formatına 
+şartnamede yer alan genel kurallar başlığından ulaşabilirsiniz. 
+• Yarışmacılar farklı projeler ile aynı ve/veya farklı TEKNOFEST yarışmalarına başvuru 
+yapabilir. 
+• Her farklı proje için ayrı başvuru formu doldurulması gerekmektedir. 
+• Yarışmacılar aynı proje ile yalnızca tek bir kategoriye veya tek bir yarışmaya 
+başvurulabilir. Aynı proje ile farklı kategori veya TEKNOFEST kapsamında düzenlenen 
+farklı yarışmaya başvuru yapan takımların veya kişilerin başvuruları geçersiz 
+sayılacaktır. 
+• Kategori seçimi yaparken, başvuru döneminde bulunduğunuz eğitim seviyesi dikkate 
+alınmalıdır. 
+• Yarışmacı aynı proje ile daha evvel bir başka yarışmada (TEKNOFEST veya diğer 
+yarışmalar) yer almışsa, katılmış olduğu yarışmanın adı, yeri, tarihi, organizatörü, 
+yarışmada aldığı netice bilgilerini proje dosyası içerisinde bildirmelidir. 
+• Lise mezunu üyelerin lise kategorisine başvurabilmeleri için mezuniyet tarihinden 
+itibaren 3 (üç) yıldan fazla geçmemiş olması gerekmektedir.  
+• Öğrencilerin onaylı öğrenci belgelerini, danışmanların ise çalıştıkları kurumu gösteren 
+onaylı belgelerini ıslak imzalı olarak TEKNOFEST Yarışmalar Komitesi tarafından 
+açıklanacak tarihte sisteme yüklemeleri gerekmektedir.  
+• Başvurular 28.02.2026 tarihine kadar http://www.t3kys.com başvuru sistemi 
+üzerinden çevrimiçi olarak yapılır. 
+3.1. Takım Oluşturma  
+• Bu yarışma kapsamında ilkokul ve ortaokul seviyesinde başvuru yapılamamaktadır. 
+İlkokul ve ortaokul seviyesindeki öğrenciler takımlara dahil edilemez. 
+• Yarışmaya bireysel katılım sağlanabileceği gibi, takım olarak da başvuru yapılabilir. 
+• Takım üye sayısı tüm kategori ve eğitim seviyeleri için en fazla 6 kişiden oluşacak 
+şekilde takımlar oluşturulmalıdır. (Bu sayıya danışman dahil değildir.) 
+• Lise seviyesindeki takımlar, danışman bulundurmak zorundadır. 
+• Üniversite ve üzeri seviyesinde yarışacak takımların danışman alma zorunluluğu 
+bulunmamaktadır. 
+• Danışman, takım üyesi rolüyle eklenmemelidir. Danışmanın takımdaki rolü danışman 
+olarak belirtilmelidir. 
+• Bireysel başvuru yapacak  lise seviyesindeki yarışmacılarımız danışman almak 
+zorundadır. 
+• Her takımın en fazla bir danışmanı olabilir. Birden fazla danışman bulunan takımların 
+başvuruları geçersiz sayılacaktır. 
+ 
+ 
+14 
+ 
+• Takımlar, tek bir okuldan oluşturulabileceği gibi, bir veya birden fazla farklı okuldan ve 
+farklı eğitim seviyesindeki öğrencinin bir araya gelmesiyle karma bir takım da 
+oluşturabilir. Ancak, takımlar en fazla bir seviye altındaki eğitim düzeyinden 
+katılımcılarla karma takım oluşturabilir.  Bu kapsamda: 
+✓ Lise seviyesindeki bir takım, sadece kendi seviyesindeki üyelerden oluşabilir. 
+✓ Üniversite ve üzeri seviyesindeki bir takım, lise öğrencileriyle karma takım 
+oluşturabilir. 
+✓ Lise<Üniversite ve Üzeri Seviyesi (Bu yarışma kapsamında ilkokul ve ortaokul 
+seviyesinde başvuru yapılamamaktadır . İ lkokul ve ortaokul  seviyesindeki 
+öğrenciler takımlara dahil edilemez.). 
+• Takımlar tek bir ülkeden oluşturulabileceği gibi bir veya birden fazla ülkenin 
+öğrencisinin bir araya gelmesiyle karma bir takım oluşturulabilir. Takımın katılabileceği 
+yarışma kategorisi takım üyelerinden eğitim seviyesi en yüksek olana göre 
+belirlenecektir. Bir takımda üyelerin çoğunluğunun bulunduğu ülke, takımın ülke 
+bilgisi olarak belirlenebilir; ancak, takım kendi inisiyatifine bağlı olarak istedikleri bir 
+ülkeyi seçebilir. 
+• Projesi ile bireysel başvuru yapacak kişilerin KYS portalında bulunan takım oluşturma 
+modülü üzerinden tek kişilik takım oluşturarak başvuru yapması gerekmektedir. 
+• Takım içerisinde takım kaptanı bulunmalıdır. Bireysel başvuru yapan yarışmacılarımız 
+takım rolünü takım kaptanı olarak seçmelidir. 
+• Yarışma süreci boyunca, başvuru yaptığınız dönemde, takım oluştururken seçtiğiniz 
+eğitim seviyeniz dikkate alınacaktır. Eğitim seviyesi seçimi yaparken buna dikkat 
+etmeniz gerekmektedir. 
+• Başvuru tarihleri arasında takım kaptanı/danışman (varsa) sistem üzerinden kayıt olur, 
+danışman (varsa) ve/veya takım kaptanı, takım üyelerinin kaydını doğru ve eksiksiz 
+olarak sistemde oluşturur ve üyelerin KYS’ye kayıtlı e-postalarına davet gönderir. 
+Davet gönderilen üye, KYS başvuru sistemine giriş yaparak “Takım bilgilerim” 
+kısmından gelen daveti kabul eder ve kayıt işlemi tamamlanır. Aksi durumda kayıt 
+işlemi tamamlanmış olmaz. 
+3.2. Danışman Yükümlülükleri 
+• Danışman şartları; Danışman olarak eğitim/öğretim kurumlarında görevli 
+öğretmenler/akademisyenler veya ilgili alanda kariyer hayatını devam ettiren 
+mühendis/uzman vb. kişiler danışman olarak takımda yer alabilir. 
+• Danışman olarak görev yapacak kişinin danışmanlık görevlerini yerine getireceğine 
+dair belgenin ıslak imzalı olarak TEKNOFEST Yarışmalar Komitesinin açıklayacağı 
+tarihte sisteme yüklenmesi gerekmektedir.  (Belge şablonları tarafınızla 
+paylaşılacaktır.) 
+• Lise seviyesindeki takımların danışmanları aracılığıyla başvuru yapmaları ve yarışma 
+alanına danışmanlarıyla gelmeleri zorunludur. 
+• Üniversite ve üzeri yarışmacılar final aşamasına danışmanları ile gelmek zorunda 
+değildir. Üniversite ve üzeri seviyesindeki başvurularda takım danışmanı bulunması 
+durumunda danışmanlık belgesi göndermesi zorunludur. 
+ 
+ 
+15 
+ 
+• Danışmanın görevi; öğrencilere kendi eğitim -öğretimlerini planlayabilmeleri 
+konusunda yardımcı olmak, akademik, sosyal ve kültürel konularda yol göstermek, 
+zihinsel, sosyal ve duygusal yönleriyle öğrencinin kişiliğinin bir bütün olarak 
+gelişebilmesi için u ygun ortamın hazırlanmasına yardımcı olmak vb. görev ve 
+hizmetlerdir. Danışmanının takımdaki rolü projede ihtiyaç duyulacak akademik 
+desteği sağlayarak takım üyelerinin problemlerine çözüm üretebilmeleri için yol 
+göstermektir. 
+• Danışman final aşamasına kadar takıma destek olacağını ve final aşaması süresince 
+takımın yanında bulunacağını taahhüt eder. 
+• Lise seviyesindeki  takımların danışmanlarının final aşamasında takım ının yanında 
+bulunması zorunlu olup, final aşamasına mücbir sebeplerden katılım 
+sağlayamayacak danışmanların  iletisim@teknofest.org e-posta adresine 
+gerekçesinin ve yer aldığı  dilekçeyi TEKNOFEST Yarışmalar birimine gönderilmesi 
+gerekmektedir.   
+3.3. Süreç Bilgileri 
+• Yarışma süreci boyunca TEKNOFEST yarışmalar komitesi tarafından yapılacak olan 
+tüm bilgilendirmeler takımın iletişim sorumlusu olarak belirlediği kişiye yapılacaktır. 
+Bu sebeple her takım bir iletişim sorumlusu belirlemelidir. (KYS’  ye kayıtlı e -mail 
+adresine bilgilendirme yapılmaktadır.) 
+• Süreçlerin (Başvuru Yapma, Rapor yükleme Son Tarihi, İtiraz Süreci vb.) takibi iletişim 
+sorumlusunun görevi olup iletişim sorumlusundan kaynaklı gecikmeler ve/veya 
+aksaklıklardan TEKNOFEST yarışmalar komitesi sorumlu değildir. 
+• Yarışma kapsamında gerekli tüm süreçler (Başvuru, Rapor/Sunum Alımı, 
+Rapor/Sunum Sonuçları, Maddi Destek Başvurusu, İtiraz Süreçleri, Üye 
+ekleme/çıkarma işlemleri vb.) KYS sistemi üzerinden yapılmaktadır. Takımların KYS 
+portalı üzerinden süreçleri takip etmesi gerekmektedir. 
+• Yarışma süreci boyunca başvuru yapma, rapor yükleme ve itiraz süreci işlemleri takım 
+kaptanı ve/veya danışmanın yetkisi dahilinde olup yarışma süreçleri bu kişiler 
+üzerinden yönetilmektedir.  
+• Üye ekleme/çıkarma işlemleri çevrim içi gerçekleştirilecek proje sunumunun son 
+teslim tarihine kadar yapılmaktadır. Sunum tesliminden sonra takımlarda değişiklik 
+yapılamaz. 
+• Finale kalan takımlara sağlanacak ulaşım ve konaklama desteği sınırlıdır. Destek 
+verilecek kişi sayısı takım başı en fazla 3 kişi (danışman dahil) olup TEKNOFEST 
+Yarışmalar Komitesi tarafından değişiklik yapma hakkı bulunmaktadır. Takım 
+oluşturulurken bu maddenin göz önünde bulundurulması gerekmektedir. 
+• TEKNOFEST Yarışmalar Komitesi festival alanında bulunacak üye sayısını 
+sınırlandırma yetkisine sahiptir. Sınırlandırma yapılması durumunda komite 
+tarafından bilgilendirme yapılacaktır. 
+• Lise öğrencilerinden oluşan takımlar kendi aralarında, üniversite ve üzeri seviyedeki 
+öğrencilerden ve mezunlardan oluşan takımlar kendi aralarında yarışacaklardır. 
+• Takım oluşturma işlemini tamamlayan yarışmacıların projesine uygun yarışmaya 
+başvuru yapması gerekmektedir. 
+ 
+ 
+16 
+ 
+• Başvuru sürecini tamamlayan yarışmacılar, herhangi bir eleme sürecine tabi 
+tutulmaksızın, yarışma takviminde belirtilen Ön Değerlendirme Raporunu son 
+yükleme tarihine kadar sistem de yüklemekle sorumludur. Raporunu belirtilen süre 
+içerisinde yüklemeyen takımlar bu aşamada elenmiş sayılacaktır.  
+3.4. Başvuru Esasları  
+Başvurular, TEKNOFEST Havacılık, Uzay ve Teknoloji Festivali Teknoloji Yarışmaları resmî 
+web sitesi (www.teknofest.org) üzerinden alınacaktır. 
+Başvurular 28.02.2026 tarihine kadar www.t3kys.com başvuru sistemi üzerinden çevrim 
+içi olarak yapılır. 
+Yarışmacı, başvuru yapmadan önce yarışma hakkındaki tüm açıklamaları ve katılım 
+koşullarını okuyup onaylamak suretiyle yarışmaya katılabilecektir. 
+Yarışmaya başvuranlar şartnamede yer alan şartların tamamını kabul etmiş oldukları 
+sayılmaktadır.  
+4. YARIŞMA TAKVİMİ,  
+Tablo 3 Yarışma Takvimi 
+5. PUANLAMA VE DEĞERLENDİRME 
+Tarım Teknolojileri Yarışması kapsamında değerlendirme süreci; Proje Ön Değerlendirme 
+Raporu, Proje Sunum ve Yarışma Final Puanlaması olarak üç farklı aşamada yapılacaktır. 
+Proje Ön Değerlendirme Raporu ve Proje Sunumlarını yüklemeyen takımlar yarışmaya 
+katılmaya hak kazanamayacaklardır.  
+Rapor, yarışma takviminde  belirtilen gün saate kadar KYS sistemi üzerinden 
+doldurulmalıdır. İtiraz süreci, sonuçların açıklanmasının ardından TEKNOFEST yarışmalar 
+komitesi tarafından takımlara e -posta yoluyla iletilir. Takvim ve saatlerde TEKNOFEST 
+Yarışmalar Komitesi tarafından d eğişiklik yapma hakkı bulunmaktadır. Başvuru sonrası 
+takımların göndermiş oldukları Ön Değerlendirme Raporları ile bir “ön eleme” işlemi 
+gerçekleştirilecektir.  
+TARİH AÇIKLAMA 
+28.02.2026 Yarışma son başvuru tarihi 
+26.03.2026 – 17.00 Proje ön değerlendirme raporu son teslim tarihi 
+13.05.2026 - 20.05.2026 Proje Ön Değerlendirme raporu sonuçlarına göre ön 
+elemeyi geçen takımların açıklanması 
+01.07.2026 – 17.00 Proje Sunumu son teslim tarihi 
+8.07.2026 - 20.07.2026 Proje Sunumu (Yarı Final) 
+27.07.2026 - 30.07.2026 Finalistlerin açıklanması 
+TEKNOFEST Şanlıurfa - 30 Eylül -4 
+Ekim TEKNOFEST 
+ 
+ 
+17 
+ 
+Bu ön eleme sürecinde göndermiş oldukları formlar, proje konu kapsamı uygunluğu 
+bakımından incelenerek ön değerlendirme raporlarının değerlendirmeye alınması kararı 
+verilecek olup geçersiz veya yanlış başvurular elenecektir. Bu kapsamda elenecek olan 
+projenin itiraz hakkı bulunmamaktadır.  
+5.1. Proje Ön Değerlendirme Raporu 
+Bu değerlendirme aşamasında tüm eğitim seviyesindeki takımlar (lise, üniversite ve 
+üzeri) rapor yüklemesi yapmalıdır.  
+Takımlar, Proje Ön Değerlendirme raporlarını yarışma takviminde belirtilen tarihte teslim 
+etmekle yükümlüdürler. Proje Ön Değerlendirme raporlarını teslimi ile alakalı detaylı 
+bilgilendirme yarışma başvuru tarihinin sona ermesinin ardından başvurusunu 
+tamamlamış olan takımlar ile paylaşılacaktır. Proje Ön Değerlendirme raporları 
+sonuçlarına göre bir ön eleme gerçekleştirilecektir. Ön değerlendirme sonucunda ikinci 
+aşamaya geçen takımlar yarışma takviminde belirtilen tarihte açıklanacaktır.   
+5.1.1. Proje Ön Değerlendirme Raporu İtiraz Süreci 
+Takımların rapor değerlendirmesi sonucunda baraj puanından en fazla 25 puan altında 
+alması durumunda itiraz etme hakkı bulunacaktır. Rapor itirazları, rapor sonuçları 
+açıklandıktan sonraki 48 saat içerisinde KYS üzerinden alınmaktadır.  İtirazlar takım 
+danışmanı veya takım kaptanı tarafından yapılmalıdır. Belirlenen süreç içerisinde 
+iletilmeyen itirazlar değerlendirmeye alınmayacaktır. Takımların itirazları farklı hakem 
+heyetlerine gönderilir ve yeniden değerlendirilir. İtiraz süreci hakkında detaylı bilgiy e 
+GENEL KURALLARDAN  ulaşabilirsiniz. İtiraz aşmasında da başarılı olarak geçemeyen 
+takımların yüksek itiraz hakkı bulunmaktadır. Yüksek itiraz başvurunuz için 
+iletisim@teknofest.org adresine itiraz gerekçeleriniz ve dilekçenizin yer aldığı mailin 
+TEKNOFEST Yarışmalar İtiraz Yönetmeliği’nde belirtilen kriterlere göre tarafımıza 
+gönderilmesi gerekmektedir.  Yüksek itiraz süreci hakkında detaylı bilgiye GENEL 
+KURALLARDAN ulaşabilirsiniz. 
+5.2. Proje Sunumu (Yarı Final) 
+Bu değerlendirme aşamasında tüm eğitim seviyesindeki takımlar (lise, üniversite ve 
+üzeri) sunum yüklemesi yapmalıdır. 
+Proje sunum aşamasına geçen takımlar sunumlarını yarışma takviminde belirtilen tarihte 
+teslim etmekle yükümlüdürler.  Proje sunumları çevrim içi olarak değerlendirilecektir.  
+Sunuma ait şablon ve isterlere TEKNOFEST web sitesi üzerinden ulaşabilirsiniz. 
+Sunumlarını takvime ve gerekli kriterlere uygun bir şekilde teslim eden takımlar için 
+Çevrim içi sunum, tarih ve saatleri belirlenecektir. İlgili takım belirlenen tarih ve saatt e 
+sunumunu yapmakla mükelleftir. Çevrim içi sunum sonuçlarına göre finale katılmaya hak 
+kazanan takımlar yarışma takviminde belirtilen tarihte açıklanacaktır. 
+Yarı final aşamasını başarı ile tamamlayan takımlar TEKNOFEST finallerinde yarışma ve 
+maddi destek hakkı kazanacaktır. Çevrim içi sunum sonuçlarına göre başarılı olan 
+ 
+ 
+18 
+ 
+takımlar maddi destek başvurusu yaptılar ise almaya hak kazanacaktır, bu aşamada KYS 
+portalı üzerinden iletilecek olan maddi destek formunun doldurulması gerekmektedir, 
+Maddi destek formu için tarih, TEKNOFEST Yarışmalar Komitesi tarafından belirlenecek 
+olup bilgilendirme iletişim sorumlusunun KYS’  ye kayıtlı mail adresi üzerinden 
+yapılacaktır. Maddi destek başvurusu yapmak zorunlu değildir. 
+Proje sunumu değerlendirme kriterleri, sunum şablonu ve detayları TEKNOFEST resmî 
+web sitesinde yayınlanacaktır.  
+5.2.1. Proje Sunumu İtiraz Süreci 
+Takımların sunum değerlendirmesi sonucunda baraj puanından en fazla 25 puan altında 
+alması durumunda itiraz etme hakkı bulunacaktır. Sunum itirazları, sunum sonuçları 
+açıklandıktan sonraki 48 saat içerisinde KYS üzerinden alınmaktadır. İtirazlar takım 
+danışmanı veya takım kaptanı tarafından yapılmalıdır. Belirlenen süreç içerisinde 
+iletilmeyen itirazlar değerlendirmeye alınmayacaktır. Takımların itirazları farklı hakem 
+heyetlerine gönderilir ve yeniden değerlendirilir. İtiraz süreci hakkında detaylı bilgiye genel 
+kurallardan ulaşabilirsiniz. İtiraz aşmasında da başarılı olarak geçemeyen takımların 
+yüksek itiraz hakkı bulunmaktadır. Yüksek itiraz başvurunuz için iletisim@teknofest.org 
+adresine itiraz gerekçeleriniz ve dilekçenizin yer aldığı mailin TEKNOFEST Yarışmalar İtiraz 
+Yönetmeliği’nde belirtilen kriterlere göre tarafımıza gönderilmesi gerekmektedir.  Yüksek 
+itiraz süreci hakkında detaylı bilgiye genel kurallardan ulaşabilirsiniz. 
+5.3. Yarışmanın Puanlanması 
+Projelerin değerlendirilmesi; ön değerlendirme, yarı final (proje sunumu) ve final olmak 
+üzere üç temel aşamada gerçekleştirilecektir. Sergi yarışmaları kapsamında, Proje Ön 
+Değerlendirme Raporu ve Proje Sunumu (Yarı Final) aşamaları, projelerin yarışma 
+kapsamına uygunluğu ve gelişim düzeyi değerlendirilerek, bir sonraki aşamaya geçecek 
+projelerin belirlenmesi amacıyla yürütülecektir. 
+ 
+Bu aşamalarda yapılan değerlendirmeler, nihai başarı puanına dâhil edilmeyecek olup, 
+yalnızca final aşamasına katılım durumunun belirlenmesinde esas alınacaktır. 
+ 
+Yarışmacıların nihai başarı puanı, yalnızca final aşamasında gerçekleştirilen prototip 
+değerlendirmesi ve final sunumu üzerinden belirlenecektir. 
+Bu kapsamda değerlendirme yapısı Tablo 4’te gösterildiği gibidir. 
+Tablo 4 Yarışma Puanlaması 
+Buna göre; final öncesindeki aşamalar (Proje Ön Değerlendirme Raporu ve Proje Sunumu), 
+projelerin bir üst aşamaya geçme durumunun belirlenmesi amacıyla kullanılacak; yarışmanın 
+PUANLAMA TÜRÜ PUANLAMA YÜZDESİ 
+Proje Ön Değerlendirme Raporu %0 
+Proje Sunumu (Yarı Final) %0 
+Prototip ve Final Sunum Puanlaması %100 
+ 
+ 
+19 
+ 
+nihai sıralaması ve ödül derecelendirmesi yalnızca final aşaması sonuçlarına göre 
+belirlenecektir. 
+5.4. Prototip ve Final Sunum Puanlaması 
+Prototip (ilk örnek) proje sonrasında ortaya çıkacak ürün veya sürecin somut bir 
+gösterimidir. Bu nihayetinde ortaya çıkacak ürünün en ilkel halidir . Prototip, proje 
+sonrasında ortaya çıkacak ürün veya sürecin somut bir ön gösterimidir ve nihai ürünün 
+temelini oluşturur. Bu aşamada, yarışmacılardan projenin işlevselliğini ve konseptini 
+açıkça ifade edebilecek prototipler hazırlamaları beklenmektedir. Karton, LEGO gibi 
+malzemelerden hazırlanmış işlevsel modeller, ekran görüntüleri, arayüz tasarımları veya 
+simülasyonlar, görseller, analizler ve raporlarla desteklenen açıklamalar bulunmalıdır. 
+Jüri sunumları için gerekli detaylar, finalistlerin belirlenmesinin ardından paylaşılacaktır.  
+Yarışma ortamı gereksinimleri, yarışmacıların jüriye prototiplerini göstermeleri ve görsel 
+sunumlara dair ayrıntılı bilgiler finalist takımlarının belirlenmesinin ardından finalist 
+takımlarla paylaşılacaktır. Final sunumları takım üyeleri tarafından yapıl malıdır, 
+danışmanların sunum yapması kural dışıdır. Final aşamasında takımların görsel sunum 
+yapmaları için poster hazırlamaları zorunlu olup poster boyut ve içeriğ i hakkında 
+bilgilendirme finalistlerin belirlenmesinin ardından TEKNOFEST Yarışmalar Komitesi 
+tarafından yapılacaktır. Final değerlendirmelerine göre finalist takımların sonuç 
+sıralaması TEKNOFEST Yarışma finalinin ardından www.teknofest.org sitesinden 
+duyurulacaktır.  
+6. ÖDÜLLER 
+Yarışmada üç aşamada ayrı ayrı değerlendirme neticesinde değerlendirme aşamalarını 
+geçerek kendi kategorisinde finale kalan ve final değerlendirmesinde dereceye giren 
+takımlara para ödülü verilecektir. Aşağıdaki tabloda belirtilen ödüller, ödül almaya hak 
+kazanan takımlara verilecek toplam tutarı göstermektedir, bireysel ödü llendirme 
+yapılmayacaktır. Birincilik, ikincilik ve üçüncülük ödülleri, KYS’ deki takımınızda yer alan 
+mevcut t akım üyeleri ( danışman dahil değildir ) toplam sayısına göre eşit miktarda 
+bölünerek her şahsın belirteceği banka hesabına yatırılacaktır. Yarışma kapsamında 
+dereceye giren takımın danışmanına “Danışman Ödülü” ödemesi yapılacaktır.  
+Tablo 5 Kategori Bazlı Derece Ödül Tablosu 
+Ek olarak finalist olan prestij ödülleri verilecektir. Prestij ödülleri: 
+• En İyi Sunum Ödülü 
+• Ticarileştirme Potansiyeli Ödülü 
+KATEGORİ LİSE YÜKSEKÖĞRETİM VE 
+MEZUNLAR DANIŞMAN 
+BİRİNCİLİK 90.000 ₺ 100.000 ₺ 15.000 ₺ 
+İKİNCİLİK 80.000 ₺ 90.000 ₺ 12.000 ₺ 
+ÜÇÜNCÜLÜK 70.000 ₺ 80.000 ₺ 10.000 ₺ 
+ 
+ 
+20 
+ 
+6.1. En İyi Sunum Ödülü 
+Yarışma alanında üstlenilen görevlerini ve alandaki iş planlarını en iyi şekilde 
+sonuçlandırmayı hedefleyen takımlara, bu amaçta derece elde edip edilmemesine 
+bakılmaksızın projesini süre, sorulara verilen doğru cevaplar, beden dili, dinleyicilere karşı 
+tutum, sunumun akıcılığı, sunum taslağı gibi kriterleri en iyi şekilde yansıtan takımlara 
+verilen ödüldür. Takım olarak bu belirtilen kriterlere bakılarak değerlendirme yapılacaktır. 
+En İyi Sunum ödülü, her eğitim seviyesinden seçilecek birer takıma verilecektir. 
+Belirtilen ödül prestij amaçlı olup bir maddi karşılığı bulunmamaktadır. 
+6.2. Ticarileştirme Potansiyeli Ödülü 
+Ticarileşme Potansiyeli Ödülü, finale kalan takımlar arasında projenin hayata geçirebilme 
+kolaylığı, nihai ürün üretmeye yönelik belirsizlik ve risklerin bulunmaması, mevcut 
+teknoloji ve ekipmanlarla üretilebilmesi ve projenin çıktısı ürün bir hizmet ürünü yse 
+satılabilir ve sunulabilir olması kriterleri doğrultusunda ticarileşme potansiyeli en yüksek 
+olan takıma "Ticarileşme Potansiyeli Ödülü" verilecektir. 
+Ticarileşme Potansiyeli ödülü, her eğitim seviyesinden seçilecek birer takıma verilecektir. 
+Belirtilen ödül prestij amaçlı olup bir maddi karşılığı bulunmamaktadır. 
+7. GENEL KURALLAR 
+Yarışma kapsamında geçerli olan Genel Kurallar kitapçığına ulaşmak için tıklayınız. 
+8. ETİK KURALLAR 
+Yarışma kapsamında geçerli olan Etik Kurallar kitapçığına ulaşmak için tıklayınız. 
+9. SORUMLULUK BEYANI 
+T3 Vakfı ve TEKNOFEST, yarışmacıların teslim etmiş olduğu herhangi bir üründen veya 
+yarışmacıdan kaynaklanan herhangi bir yaralanma veya hasardan hiçbir şekilde sorumlu 
+değildir. Yarışmacıların 3. kişilere verdiği zararlardan T3 Vakfı ve organizasyon yetki lileri 
+sorumlu değildir. T3 Vakfı ve TEKNOFEST, takımların kendi sistemlerini Türkiye 
+Cumhuriyeti yasaları çerçevesinde hazırlamalarını ve uygulamalarını sağlamaktan 
+sorumlu değildir.  
+Türkiye Teknoloji Takımı Vakfı işbu şartnamede her türlü değişiklik yapma hakkını saklı 
+tutar. 
+10. İLETİŞİM  
+Yarışma hakkında sorular için TEKNOFEST web sitesinde Tarım Teknolojileri Yarışması 
+sayfasından yarışmanın grubuna katılabilirsiniz. Bu grubun aktif olarak takip edilmesi ve 
+her takımdan en az 1 kişinin üye olarak bu gruptaki duyuruları, soru ve cevapları takip 
+etmesi yarışmacıların sorumluluğundadır. Belirtilen e -posta grubunun takip edilmemesi 
+ 
+ 
+21 
+ 
+sonucunda doğacak takımların güncel bilgilendirmelere ulaşamama durumundan 
+TEKNOFEST Yarışmalar Komitesi sorumlu değildir. 
+Yarışmanın organizasyonel bölümleri ile ilgili soruların iletisim@teknofest.org e-posta 
+adresi üzerinden iletilmesi gereklidir. 
+Sorularınızın yukarıda doğru kanallar üzerinden iletilmesi, sorulan sorulara hızlı dönüş 
+yapılabilmesi açısından önem arz etmektedir. 
+ 
+ 
+ 
+22 
+ 
+ 
+ 
